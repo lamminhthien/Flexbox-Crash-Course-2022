@@ -43,6 +43,13 @@ ul {
     font-weight: bold;
 }
 
+.navbar a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+}
+
 .navbar a:hover {
     color: lightblue;
 }
@@ -66,6 +73,10 @@ ul {
     background-color: #0151cc;
     color: #fff;
     min-height: 400px;
+}
+
+.header img {
+    max-width: 400px;
 }
 
 .header h1 {
